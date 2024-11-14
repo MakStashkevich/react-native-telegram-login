@@ -2,7 +2,7 @@
 
 #### THIS IS AN EXPERIMENTAL PROJECT THAT DIDN'T WORK! 😭
 
-![Screenshot of React Native Telegram Login working](./readme-assets/screenshoot.jpg))
+<img src="readme-assets/screenshot.jpg" alt="drawing" width="200"/>
 
 ## How I did Telegram login and why it doesn't work.....
 
