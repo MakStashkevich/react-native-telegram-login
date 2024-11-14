@@ -2,8 +2,10 @@
 
 #### THIS IS AN EXPERIMENTAL PROJECT THAT DIDN'T WORK! 😭
 
+### [🇷🇺 Читать на русском](/README_RU.md)
+
 <p align="center">
-  <img src="readme-assets/screenshot.jpg" alt="Screenshot of the work of React Native Telegram Authorization" width="300"/>
+  <img src="readme-assets/screenshot.jpg" alt="Screenshot of the work of React Native Telegram Authorization" width="400"/>
 </p>
 
 ## How I did Telegram login and why it doesn't work.....
